@@ -1,4 +1,4 @@
-# pocorgtfo_translation
+# pocorgtfo_zh
 
 [Poc||GTFO](https://github.com/angea/pocorgtfo)的中文翻译项目
 
